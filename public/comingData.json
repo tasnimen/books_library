@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering JavaScript ES2025",
+    "author": "Ethan Walker",
+    "releaseDate": "2025-10-10",
+    "genre": "Programming",
+    "coverImage": "https://i.ibb.co.com/BpL72Fx/Gemini-Generated-Image-qhdsecqhdsecqhds.png",
+    "description": "Learn the latest ES2025 JavaScript features with hands-on examples and projects."
+  },
+
+  {
+    "id": 2,
+    "title": "Node.js for Backend Masters",
+    "author": "Isabella Johnson",
+    "releaseDate": "2026-01-15",
+    "genre": "Programming",
+    "coverImage": "https://i.ibb.co.com/gZPwwXb2/Gemini-Generated-Image-qhdsecqhdsecqhds-3.png",
+    "description": "Learn how to build scalable and secure backend systems with Node.js."
+  },
+  {
+    "id": 3,
+    "title": "Full-Stack Development with Next.js",
+    "author": "David Wilson",
+    "releaseDate": "2026-02-20",
+    "genre": "Programming",
+    "coverImage": "https://i.ibb.co.com/vxn6JgZ9/Gemini-Generated-Image-qhdsecqhdsecqhds-4.png",
+    "description": "A step-by-step guide to building modern full-stack apps using Next.js and Tailwind."
+  },
+  {
+    "id": 4,
+    "title": "TypeScript in Depth",
+    "author": "Sophia Chen",
+    "releaseDate": "2025-11-05",
+    "genre": "Programming",
+    "coverImage": "https://i.ibb.co.com/LdVTYMV5/Gemini-Generated-Image-qhdsecqhdsecqhds-1.png",
+    "description": "A complete guide to mastering TypeScript for scalable web applications."
+  },
+  {
+    "id": 5,
+    "title": "React 19 & Beyond",
+    "author": "Michael Brown",
+    "releaseDate": "2025-12-01",
+    "genre": "Programming",
+    "coverImage": "https://i.ibb.co.com/WWZBpQW4/Gemini-Generated-Image-qhdsecqhdsecqhds-2.png",
+    "description": "Explore the new features in React 19 and build next-gen user interfaces."
+  }
+]
